@@ -1,0 +1,19 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button {
+    padding: 10px;
+    border: solid 3px greenyellow;
+    border-radius: 10px;
+    cursor: pointer;
+    outline: none;
+    font-size: 30px;
+    
+}
+button:hover {
+    color:white;
+    background-color: black;
+}
